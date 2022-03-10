@@ -7,8 +7,12 @@ A new Flutter project.
 ## Absen    : 04
 ## kelas    : MI 2C <br>
 
-# sebelum dikonversi
-![Screenshot Dashboard Oracle](sebelum.jpeg)
+# Tugas Praktikum 1
+![Screenshot Dashboard Oracle](tugas1.jpeg)
 
-# sesudah dikonversi
-![Screenshot Dashboard Oracle](sesudah.jpeg)
+![Screenshot Dashboard Oracle](tugas1_2.jpeg)
+
+![Screenshot Dashboard Oracle](tugas1_3.jpeg)
+
+# Tugas Praktikum 2
+![Screenshot Dashboard Oracle](tugas2.jpeg)
